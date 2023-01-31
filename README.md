@@ -1,4 +1,4 @@
 # portfolio
 
-this is website where my project code publish
+Here is the link where this project was published
 https://jobseekerid.netlify.app/
